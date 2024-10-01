@@ -1,0 +1,15 @@
+Search
+Show a list of Trending Content
+Show Details of the content
+Watchlist
+Favourites
+User Ratings
+Personalized Recommendations - user's favorites
+
+Save Information like favourites, user ratings, watchlist locally, either JSON, CSV or custom file
+
+Title / Name
+Overview
+Genres
+Release Date
+
